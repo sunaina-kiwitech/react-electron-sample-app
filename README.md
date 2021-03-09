@@ -14,3 +14,4 @@ git clone https://github.com/sunaina-kiwitech/react-electron-sample-app.git
 npm install
 # Run the app
 npm start
+
