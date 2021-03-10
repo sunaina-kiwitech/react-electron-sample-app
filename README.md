@@ -14,4 +14,5 @@ git clone https://github.com/sunaina-kiwitech/react-electron-sample-app.git
 npm install
 # Run the app
 npm start
-
+**To run the React application on the browser and in a separate window, run the following command:**
+npm run dev
